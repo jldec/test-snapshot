@@ -1,1 +1,2 @@
 # test-snapshot
+another line
